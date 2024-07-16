@@ -23,3 +23,6 @@ h1 {
     /* テキストの影を設定します。値は次の順序で指定します: 横方向のオフセット、縦方向のオフセット、ぼかしの範囲、色 */
     text-shadow: 2px 2px 2px grey; 
 }
+body {
+   background-image: url(‘https://png.pngtree.com/background/20210711/original/pngtree-cool-gradient-fashion-technology-h5-background-picture-image_1092359.jpg’);
+}
