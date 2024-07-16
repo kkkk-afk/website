@@ -1,26 +1,25 @@
-body {
-  font-family: sans-serif;
-  margin: 0;
-  padding: 0;
-}
-.header {
-  background-color: white;
-  padding: 0 .5em;
-}
-.footer {
-  background-color: white;
-  padding: 0 .5em;
-}
-.main {
-  background-color: #fff8d8;
-  padding: 1em;
-}
+/* main.css ファイルに以下のコードを追加します */
+
+/* h1 タグに対するスタイル */
 h1 {
-  font-size: 150%;
-  margin: 0 0;
-  padding: .5em 0;
-}
-div {
-  padding: 0vw 0vh;
-  margin: 0vw 0vh;
+    /* テキストの色を設定します。色は名前または hex コードで指定できます */
+    color: #333; 
+
+    /* フォントファミリーを設定します。複数のフォントをカンマで区切って指定できます */
+    font-family: Arial, sans-serif; 
+
+    /* フォントサイズを設定します。px (ピクセル) または em (親要素のフォントサイズに対する相対値) を使用できます */
+    font-size: 24px; 
+
+    /* フォントスタイルを設定します。italic (斜体) または normal (通常) を指定できます */
+    font-style: italic; 
+
+    /* テキストの太さを設定します。値は 100 から 900 までの範囲で、大きいほど太くなります */
+    font-weight: 700; 
+
+    /* テキストの装飾を設定します。underline (下線), overline (上線), line-through (取り消し線) などがあります */
+    text-decoration: underline; 
+
+    /* テキストの影を設定します。値は次の順序で指定します: 横方向のオフセット、縦方向のオフセット、ぼかしの範囲、色 */
+    text-shadow: 2px 2px 2px grey; 
 }
