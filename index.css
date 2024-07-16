@@ -1,5 +1,7 @@
 body {
-background-image: url(‘https://png.pngtree.com/background/20210711/original/pngtree-cool-gradient-fashion-technology-h5-background-picture-image_1092359.jpg’);
+  font-family: sans-serif;
+  margin: 50;
+  padding: 0;
 }
 .header {
   background-color: white;
